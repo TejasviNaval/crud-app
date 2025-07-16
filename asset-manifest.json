@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/TejasviNaval/crud-app/static/css/main.31d6cfe0.css",
-    "main.js": "/TejasviNaval/crud-app/static/js/main.0d88d20d.js",
-    "index.html": "/TejasviNaval/crud-app/index.html",
-    "main.0d88d20d.js.map": "/TejasviNaval/crud-app/static/js/main.0d88d20d.js.map"
+    "main.css": "/crud-app/static/css/main.31d6cfe0.css",
+    "main.js": "/crud-app/static/js/main.0d88d20d.js",
+    "index.html": "/crud-app/index.html",
+    "main.0d88d20d.js.map": "/crud-app/static/js/main.0d88d20d.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
